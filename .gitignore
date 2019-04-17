@@ -1,0 +1,19 @@
+# node_modules
+/node_modules
+# ignore folders
+.github/
+.git/
+# cache files
+.cache
+.idea
+.vscode
+.DS_Store
+.toml
+# log files and log folders
+CHANGELOG.md
+/results
+coverage
+# lock files
+package-lock.json
+yarn.lock
+composer.lock
